@@ -1,0 +1,27 @@
+
+
+
+button  {
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  color: rgb(21, 233, 233);
+  border: 2px solid white;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover  {
+  background-color: rgb(219, 8, 8);
+}
+
+.botton-clic  {
+  background-color: blue;
+}
+
+.botton-reload  {
+  background-color: #106347;
+}
